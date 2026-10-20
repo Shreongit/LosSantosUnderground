@@ -1,0 +1,1119 @@
+{
+  "races": [
+    {
+      "id": "vespucci_night_run",
+      "name": "Vespucci Night Run",
+      "type": "StreetSprint",
+      "entryFee": 1000,
+      "maxRacers": 6,
+      "minHour": 17,
+      "maxHour": 5,
+      "checkpoints": [
+        {
+          "index": 0,
+          "position": {
+            "x": -1184.2,
+            "y": -1507.4,
+            "z": 4.4
+          },
+          "direction": {
+            "x": 0.95,
+            "y": 0.31,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 1,
+          "position": {
+            "x": -1285.5,
+            "y": -1320.8,
+            "z": 4.7
+          },
+          "direction": {
+            "x": 0.72,
+            "y": 0.69,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 2,
+          "position": {
+            "x": -1450.3,
+            "y": -1082.6,
+            "z": 4.8
+          },
+          "direction": {
+            "x": 0.98,
+            "y": 0.18,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 3,
+          "position": {
+            "x": -1662.4,
+            "y": -952.1,
+            "z": 7.3
+          },
+          "direction": {
+            "x": 0.91,
+            "y": 0.42,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 4,
+          "position": {
+            "x": -1789.7,
+            "y": -734.5,
+            "z": 10.2
+          },
+          "direction": {
+            "x": 0.64,
+            "y": 0.77,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": true
+        }
+      ]
+    },
+    {
+      "id": "downtown_after_dark",
+      "name": "Downtown After Dark",
+      "type": "StreetCircuit",
+      "entryFee": 1000,
+      "maxRacers": 6,
+      "minHour": 17,
+      "maxHour": 5,
+      "checkpoints": [
+        {
+          "index": 0,
+          "position": {
+            "x": 237.2,
+            "y": -870.5,
+            "z": 30.5
+          },
+          "direction": {
+            "x": 0.99,
+            "y": 0.1,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 1,
+          "position": {
+            "x": 425.7,
+            "y": -822.1,
+            "z": 29.9
+          },
+          "direction": {
+            "x": 0.74,
+            "y": 0.67,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 2,
+          "position": {
+            "x": 517.9,
+            "y": -615.4,
+            "z": 24.7
+          },
+          "direction": {
+            "x": -0.1,
+            "y": 0.99,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 3,
+          "position": {
+            "x": 361.5,
+            "y": -489.2,
+            "z": 32.8
+          },
+          "direction": {
+            "x": -0.94,
+            "y": 0.34,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 4,
+          "position": {
+            "x": 145.8,
+            "y": -642.7,
+            "z": 30.1
+          },
+          "direction": {
+            "x": -0.83,
+            "y": -0.56,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 5,
+          "position": {
+            "x": 237.2,
+            "y": -870.5,
+            "z": 30.5
+          },
+          "direction": {
+            "x": 0.99,
+            "y": 0.1,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": true
+        }
+      ]
+    },
+    {
+      "id": "la_mesa_redline",
+      "name": "La Mesa Redline",
+      "type": "StreetSprint",
+      "entryFee": 1000,
+      "maxRacers": 6,
+      "minHour": 17,
+      "maxHour": 5,
+      "checkpoints": [
+        {
+          "index": 0,
+          "position": {
+            "x": 960.5,
+            "y": -1702.4,
+            "z": 30.1
+          },
+          "direction": {
+            "x": 0.98,
+            "y": 0.18,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 1,
+          "position": {
+            "x": 1164.8,
+            "y": -1615.2,
+            "z": 34.6
+          },
+          "direction": {
+            "x": 0.75,
+            "y": 0.66,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 2,
+          "position": {
+            "x": 1308.4,
+            "y": -1410.7,
+            "z": 35.0
+          },
+          "direction": {
+            "x": 0.22,
+            "y": 0.97,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 3,
+          "position": {
+            "x": 1214.6,
+            "y": -1222.8,
+            "z": 36.1
+          },
+          "direction": {
+            "x": -0.74,
+            "y": 0.67,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": true
+        }
+      ]
+    },
+    {
+      "id": "cypress_smoke",
+      "name": "Cypress Smoke",
+      "type": "StreetCircuit",
+      "entryFee": 1000,
+      "maxRacers": 6,
+      "minHour": 17,
+      "maxHour": 5,
+      "checkpoints": [
+        {
+          "index": 0,
+          "position": {
+            "x": 913.5,
+            "y": -2368.6,
+            "z": 30.5
+          },
+          "direction": {
+            "x": 0.98,
+            "y": 0.2,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 1,
+          "position": {
+            "x": 1128.2,
+            "y": -2295.7,
+            "z": 30.2
+          },
+          "direction": {
+            "x": 0.72,
+            "y": 0.69,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 2,
+          "position": {
+            "x": 1205.4,
+            "y": -2070.5,
+            "z": 44.1
+          },
+          "direction": {
+            "x": -0.12,
+            "y": 0.99,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 3,
+          "position": {
+            "x": 1020.8,
+            "y": -1964.6,
+            "z": 30.7
+          },
+          "direction": {
+            "x": -0.94,
+            "y": 0.34,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 4,
+          "position": {
+            "x": 815.6,
+            "y": -2152.8,
+            "z": 29.8
+          },
+          "direction": {
+            "x": -0.82,
+            "y": -0.57,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": true
+        }
+      ]
+    },
+    {
+      "id": "vinewood_nightfall",
+      "name": "Vinewood Nightfall",
+      "type": "MountainRun",
+      "entryFee": 1000,
+      "maxRacers": 6,
+      "minHour": 17,
+      "maxHour": 5,
+      "checkpoints": [
+        {
+          "index": 0,
+          "position": {
+            "x": 744.5,
+            "y": 1268.4,
+            "z": 360.3
+          },
+          "direction": {
+            "x": -0.1,
+            "y": 0.99,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 1,
+          "position": {
+            "x": 653.7,
+            "y": 1095.2,
+            "z": 359.1
+          },
+          "direction": {
+            "x": -0.61,
+            "y": 0.79,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 2,
+          "position": {
+            "x": 484.1,
+            "y": 958.8,
+            "z": 244.7
+          },
+          "direction": {
+            "x": -0.88,
+            "y": 0.47,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 3,
+          "position": {
+            "x": 302.5,
+            "y": 812.4,
+            "z": 194.2
+          },
+          "direction": {
+            "x": -0.97,
+            "y": -0.24,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": true
+        }
+      ]
+    },
+    {
+      "id": "tongva_descent",
+      "name": "Tongva Descent",
+      "type": "MountainRun",
+      "entryFee": 1000,
+      "maxRacers": 6,
+      "minHour": 17,
+      "maxHour": 5,
+      "checkpoints": [
+        {
+          "index": 0,
+          "position": {
+            "x": -1590.8,
+            "y": 1170.6,
+            "z": 144.0
+          },
+          "direction": {
+            "x": 0.65,
+            "y": -0.76,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 1,
+          "position": {
+            "x": -1438.5,
+            "y": 1015.2,
+            "z": 113.4
+          },
+          "direction": {
+            "x": 0.82,
+            "y": -0.57,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 2,
+          "position": {
+            "x": -1254.7,
+            "y": 861.6,
+            "z": 101.2
+          },
+          "direction": {
+            "x": 0.92,
+            "y": -0.39,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 3,
+          "position": {
+            "x": -1088.4,
+            "y": 712.8,
+            "z": 80.6
+          },
+          "direction": {
+            "x": 0.95,
+            "y": -0.30,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": true
+        }
+      ]
+    },
+    {
+      "id": "sandy_storm",
+      "name": "Sandy Storm",
+      "type": "DesertRun",
+      "entryFee": 1000,
+      "maxRacers": 6,
+      "minHour": 17,
+      "maxHour": 5,
+      "checkpoints": [
+        {
+          "index": 0,
+          "position": {
+            "x": 1702.8,
+            "y": 3607.1,
+            "z": 35.4
+          },
+          "direction": {
+            "x": -0.99,
+            "y": 0.10,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 1,
+          "position": {
+            "x": 1450.4,
+            "y": 3638.2,
+            "z": 34.5
+          },
+          "direction": {
+            "x": -0.97,
+            "y": -0.24,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 2,
+          "position": {
+            "x": 1174.6,
+            "y": 3518.7,
+            "z": 32.4
+          },
+          "direction": {
+            "x": -0.91,
+            "y": -0.41,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 3,
+          "position": {
+            "x": 930.8,
+            "y": 3380.5,
+            "z": 42.2
+          },
+          "direction": {
+            "x": -0.95,
+            "y": -0.30,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": true
+        }
+      ]
+    },
+    {
+      "id": "harmony_highway",
+      "name": "Harmony Highway",
+      "type": "HighwaySprint",
+      "entryFee": 1000,
+      "maxRacers": 6,
+      "minHour": 17,
+      "maxHour": 5,
+      "checkpoints": [
+        {
+          "index": 0,
+          "position": {
+            "x": 592.8,
+            "y": 2727.3,
+            "z": 42.0
+          },
+          "direction": {
+            "x": 0.99,
+            "y": 0.06,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 1,
+          "position": {
+            "x": 866.7,
+            "y": 2748.2,
+            "z": 42.0
+          },
+          "direction": {
+            "x": 0.98,
+            "y": -0.12,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 2,
+          "position": {
+            "x": 1142.4,
+            "y": 2690.5,
+            "z": 37.8
+          },
+          "direction": {
+            "x": 0.97,
+            "y": -0.25,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 3,
+          "position": {
+            "x": 1408.6,
+            "y": 2575.8,
+            "z": 38.5
+          },
+          "direction": {
+            "x": 0.94,
+            "y": -0.34,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": true
+        }
+      ]
+    },
+    {
+      "id": "paleto_midnight",
+      "name": "Paleto Midnight",
+      "type": "CoastalRun",
+      "entryFee": 1000,
+      "maxRacers": 6,
+      "minHour": 17,
+      "maxHour": 5,
+      "checkpoints": [
+        {
+          "index": 0,
+          "position": {
+            "x": -116.8,
+            "y": 6355.4,
+            "z": 31.5
+          },
+          "direction": {
+            "x": -0.92,
+            "y": -0.39,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 1,
+          "position": {
+            "x": -375.2,
+            "y": 6208.7,
+            "z": 31.2
+          },
+          "direction": {
+            "x": -0.96,
+            "y": -0.28,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 2,
+          "position": {
+            "x": -645.4,
+            "y": 6014.5,
+            "z": 30.1
+          },
+          "direction": {
+            "x": -0.97,
+            "y": -0.24,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": false
+        },
+        {
+          "index": 3,
+          "position": {
+            "x": -914.6,
+            "y": 5796.8,
+            "z": 27.5
+          },
+          "direction": {
+            "x": -0.94,
+            "y": -0.34,
+            "z": 0.0
+          },
+          "radius": 15.0,
+          "isFinish": true
+        }
+      ]
+    },
+    {
+      "id": "the_long_haul",
+      "name": "The Long Haul",
+      "type": "LongDistance",
+      "entryFee": 5000,
+      "maxRacers": 6,
+      "minHour": 17,
+      "maxHour": 5,
+      "checkpoints": [
+        {
+          "index": 0,
+          "position": {
+            "x": -1034.6,
+            "y": -2733.6,
+            "z": 13.8
+          },
+          "direction": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 1,
+          "position": {
+            "x": -1048.4,
+            "y": -2050.7,
+            "z": 13.6
+          },
+          "direction": {
+            "x": 0.02,
+            "y": 1.0,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 2,
+          "position": {
+            "x": -721.5,
+            "y": -1554.3,
+            "z": 13.0
+          },
+          "direction": {
+            "x": 0.71,
+            "y": 0.70,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 3,
+          "position": {
+            "x": -293.7,
+            "y": -1070.8,
+            "z": 23.2
+          },
+          "direction": {
+            "x": 0.72,
+            "y": 0.69,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 4,
+          "position": {
+            "x": 34.5,
+            "y": -620.6,
+            "z": 31.8
+          },
+          "direction": {
+            "x": 0.58,
+            "y": 0.81,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 5,
+          "position": {
+            "x": 383.8,
+            "y": -144.7,
+            "z": 64.4
+          },
+          "direction": {
+            "x": 0.62,
+            "y": 0.78,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 6,
+          "position": {
+            "x": 672.4,
+            "y": 314.5,
+            "z": 111.7
+          },
+          "direction": {
+            "x": 0.56,
+            "y": 0.83,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 7,
+          "position": {
+            "x": 1185.6,
+            "y": 1078.3,
+            "z": 359.0
+          },
+          "direction": {
+            "x": 0.47,
+            "y": 0.88,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 8,
+          "position": {
+            "x": 1537.2,
+            "y": 2046.5,
+            "z": 79.4
+          },
+          "direction": {
+            "x": 0.23,
+            "y": 0.97,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 9,
+          "position": {
+            "x": 1188.7,
+            "y": 3140.2,
+            "z": 40.4
+          },
+          "direction": {
+            "x": -0.52,
+            "y": 0.85,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 10,
+          "position": {
+            "x": 677.5,
+            "y": 4148.6,
+            "z": 41.0
+          },
+          "direction": {
+            "x": -0.49,
+            "y": 0.87,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 11,
+          "position": {
+            "x": 241.6,
+            "y": 5096.8,
+            "z": 46.1
+          },
+          "direction": {
+            "x": -0.42,
+            "y": 0.91,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 12,
+          "position": {
+            "x": -178.5,
+            "y": 5984.3,
+            "z": 31.2
+          },
+          "direction": {
+            "x": -0.67,
+            "y": 0.74,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 13,
+          "position": {
+            "x": -612.4,
+            "y": 5892.6,
+            "z": 32.2
+          },
+          "direction": {
+            "x": -0.98,
+            "y": -0.18,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 14,
+          "position": {
+            "x": -1014.7,
+            "y": 5428.8,
+            "z": 38.7
+          },
+          "direction": {
+            "x": -0.82,
+            "y": -0.57,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 15,
+          "position": {
+            "x": -1218.6,
+            "y": 4765.3,
+            "z": 58.4
+          },
+          "direction": {
+            "x": -0.18,
+            "y": -0.98,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 16,
+          "position": {
+            "x": -1476.3,
+            "y": 3910.8,
+            "z": 39.1
+          },
+          "direction": {
+            "x": -0.31,
+            "y": -0.95,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 17,
+          "position": {
+            "x": -1634.2,
+            "y": 3065.4,
+            "z": 32.8
+          },
+          "direction": {
+            "x": -0.27,
+            "y": -0.96,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 18,
+          "position": {
+            "x": -1710.8,
+            "y": 2134.7,
+            "z": 52.4
+          },
+          "direction": {
+            "x": 0.18,
+            "y": -0.98,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 19,
+          "position": {
+            "x": -1618.5,
+            "y": 1127.4,
+            "z": 153.5
+          },
+          "direction": {
+            "x": 0.75,
+            "y": -0.66,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 20,
+          "position": {
+            "x": -1194.6,
+            "y": 530.7,
+            "z": 87.1
+          },
+          "direction": {
+            "x": 0.86,
+            "y": -0.51,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 21,
+          "position": {
+            "x": -805.3,
+            "y": 142.6,
+            "z": 69.7
+          },
+          "direction": {
+            "x": 0.91,
+            "y": -0.41,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 22,
+          "position": {
+            "x": -422.7,
+            "y": -319.5,
+            "z": 36.8
+          },
+          "direction": {
+            "x": 0.86,
+            "y": -0.51,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 23,
+          "position": {
+            "x": -695.2,
+            "y": -1015.6,
+            "z": 19.2
+          },
+          "direction": {
+            "x": -0.65,
+            "y": -0.76,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 24,
+          "position": {
+            "x": -1110.5,
+            "y": -1588.7,
+            "z": 4.6
+          },
+          "direction": {
+            "x": -0.44,
+            "y": -0.90,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 25,
+          "position": {
+            "x": -1274.6,
+            "y": -2140.4,
+            "z": 13.8
+          },
+          "direction": {
+            "x": 0.19,
+            "y": -0.98,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": false
+        },
+        {
+          "index": 26,
+          "position": {
+            "x": -1034.6,
+            "y": -2733.6,
+            "z": 13.8
+          },
+          "direction": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0
+          },
+          "radius": 18.0,
+          "isFinish": true
+        }
+      ]
+    }
+  ]
+}

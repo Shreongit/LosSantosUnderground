@@ -1,0 +1,64 @@
+{
+  "racers": [
+    {
+      "id": "black_devil",
+      "name": "Black Devil",
+      "vehicleModel": "sultan",
+      "skill": 0.92,
+      "aggression": 0.80,
+      "riskTaking": 0.75,
+      "mistakeChance": 0.04,
+      "overtakeAbility": 0.88,
+      "brakingSkill": 0.90,
+      "policeAwareness": 0.80
+    },
+    {
+      "id": "street_king",
+      "name": "Street King",
+      "vehicleModel": "elegy",
+      "skill": 0.86,
+      "aggression": 0.70,
+      "riskTaking": 0.65,
+      "mistakeChance": 0.06,
+      "overtakeAbility": 0.80,
+      "brakingSkill": 0.84,
+      "policeAwareness": 0.65
+    },
+    {
+      "id": "nightmare",
+      "name": "Nightmare",
+      "vehicleModel": "buffalo",
+      "skill": 0.78,
+      "aggression": 0.90,
+      "riskTaking": 0.90,
+      "mistakeChance": 0.10,
+      "overtakeAbility": 0.75,
+      "brakingSkill": 0.70,
+      "policeAwareness": 0.55
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost",
+      "vehicleModel": "comet2",
+      "skill": 0.82,
+      "aggression": 0.45,
+      "riskTaking": 0.50,
+      "mistakeChance": 0.05,
+      "overtakeAbility": 0.72,
+      "brakingSkill": 0.88,
+      "policeAwareness": 0.92
+    },
+    {
+      "id": "redline",
+      "name": "Redline",
+      "vehicleModel": "jester",
+      "skill": 0.74,
+      "aggression": 0.75,
+      "riskTaking": 0.72,
+      "mistakeChance": 0.12,
+      "overtakeAbility": 0.65,
+      "brakingSkill": 0.70,
+      "policeAwareness": 0.60
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "mod": {
+    "name": "Los Santos Underground",
+    "version": "1.0.0",
+    "enabled": true
+  },
+  "racing": {
+    "registrationStartHour": 17,
+    "registrationEndHour": 5,
+    "defaultRacerCount": 6,
+    "minimumRacers": 2,
+    "maximumRacers": 6,
+    "defaultEntryFee": 1000,
+    "longDistanceEntryFee": 5000,
+    "checkpointRadius": 15.0,
+    "longDistanceCheckpointRadius": 18.0,
+    "allowCheckpointSkipping": false,
+    "requireSequentialCheckpoints": true,
+    "continueRaceAfterClosingTime": true
+  },
+  "police": {
+    "enabled": true,
+    "wantedLevel": 3,
+    "detectionRadius": 85.0,
+    "minimumRaceSpeed": 18.0,
+    "minimumDetectionChance": 0.08,
+    "maximumDetectionChance": 0.25,
+    "raceAbortsOnDetection": true,
+    "refundAfterDetection": false,
+    "payoutAfterDetection": false,
+    "racersFleeAfterDetection": true
+  },
+  "blips": {
+    "enabled": true,
+    "showOnlyAtNight": true,
+    "hideDuringRace": true,
+    "scale": 0.85,
+    "shortRange": false
+  },
+  "ai": {
+    "enabled": true,
+    "baseSpeed": 40.0,
+    "maximumSpeed": 75.0,
+    "minimumSpeed": 15.0,
+    "avoidTraffic": true,
+    "allowOvertaking": true,
+    "allowMistakes": true
+  },
+  "ui": {
+    "showRaceHud": true,
+    "showCountdown": true,
+    "showResults": true,
+    "showNotifications": true,
+    "countdownSeconds": 3,
+    "resultsDurationSeconds": 5
+  },
+  "debug": {
+    "enabled": false,
+    "drawCheckpoints": false,
+    "drawRoutes": false,
+    "showCoordinates": false,
+    "logRaceState": false
+  }
+}

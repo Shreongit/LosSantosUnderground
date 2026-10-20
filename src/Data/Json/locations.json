@@ -1,0 +1,134 @@
+{
+  "locations": [
+    {
+      "id": "los_santos_airport",
+      "name": "Los Santos Airport",
+      "raceId": "the_long_haul",
+      "position": {
+        "x": -1034.6,
+        "y": -2733.6,
+        "z": 13.8
+      },
+      "radius": 35.0,
+      "blipRadius": 1.0,
+      "isActive": true
+    },
+    {
+      "id": "vespucci",
+      "name": "Vespucci",
+      "raceId": "vespucci_night_run",
+      "position": {
+        "x": -1184.2,
+        "y": -1507.4,
+        "z": 4.4
+      },
+      "radius": 35.0,
+      "blipRadius": 1.0,
+      "isActive": true
+    },
+    {
+      "id": "downtown_ls",
+      "name": "Downtown Los Santos",
+      "raceId": "downtown_after_dark",
+      "position": {
+        "x": 237.2,
+        "y": -870.5,
+        "z": 30.5
+      },
+      "radius": 35.0,
+      "blipRadius": 1.0,
+      "isActive": true
+    },
+    {
+      "id": "la_mesa",
+      "name": "La Mesa",
+      "raceId": "la_mesa_redline",
+      "position": {
+        "x": 960.5,
+        "y": -1702.4,
+        "z": 30.1
+      },
+      "radius": 35.0,
+      "blipRadius": 1.0,
+      "isActive": true
+    },
+    {
+      "id": "cypress_flats",
+      "name": "Cypress Flats",
+      "raceId": "cypress_smoke",
+      "position": {
+        "x": 913.5,
+        "y": -2368.6,
+        "z": 30.5
+      },
+      "radius": 35.0,
+      "blipRadius": 1.0,
+      "isActive": true
+    },
+    {
+      "id": "vinewood",
+      "name": "Vinewood",
+      "raceId": "vinewood_nightfall",
+      "position": {
+        "x": 744.5,
+        "y": 1268.4,
+        "z": 360.3
+      },
+      "radius": 35.0,
+      "blipRadius": 1.0,
+      "isActive": true
+    },
+    {
+      "id": "tongva_hills",
+      "name": "Tongva Hills",
+      "raceId": "tongva_descent",
+      "position": {
+        "x": -1590.8,
+        "y": 1170.6,
+        "z": 144.0
+      },
+      "radius": 35.0,
+      "blipRadius": 1.0,
+      "isActive": true
+    },
+    {
+      "id": "sandy_shores",
+      "name": "Sandy Shores",
+      "raceId": "sandy_storm",
+      "position": {
+        "x": 1702.8,
+        "y": 3607.1,
+        "z": 35.4
+      },
+      "radius": 35.0,
+      "blipRadius": 1.0,
+      "isActive": true
+    },
+    {
+      "id": "harmony",
+      "name": "Harmony",
+      "raceId": "harmony_highway",
+      "position": {
+        "x": 592.8,
+        "y": 2727.3,
+        "z": 42.0
+      },
+      "radius": 35.0,
+      "blipRadius": 1.0,
+      "isActive": true
+    },
+    {
+      "id": "paleto_bay",
+      "name": "Paleto Bay",
+      "raceId": "paleto_midnight",
+      "position": {
+        "x": -116.8,
+        "y": 6355.4,
+        "z": 31.5
+      },
+      "radius": 35.0,
+      "blipRadius": 1.0,
+      "isActive": true
+    }
+  ]
+}
